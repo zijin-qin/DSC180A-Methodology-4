@@ -1,3 +1,8 @@
+---
+layout: default
+title: DSC 180A MA4
+---
+
 # DSC 180A MA4
 Zijin Qin (z2qin@ucsd.edu)
 
